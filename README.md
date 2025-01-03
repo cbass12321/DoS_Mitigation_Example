@@ -1,5 +1,5 @@
 # DoS_Mitigation_Example
-This project was for class, the goal was to create some locally hosted web server and protect it from a Denial of Service attack. I choose to go with a simple python server and implemented mitigation specifically for the PP's method from the [MHDDoS](https://github.com/MatrixTM/MHDDoS) script.
+This project was for class, the goal was to create some locally hosted web server and protect it from a Denial of Service attack. I choose to go with a simple python server and implemented mitigation specifically for the PPs method from the [MHDDoS](https://github.com/MatrixTM/MHDDoS) script.
 
 ---
 
