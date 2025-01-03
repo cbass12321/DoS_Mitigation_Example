@@ -7,8 +7,8 @@ import re
 import os
 
 # Set IP and port for webserver.
-HOST_ADDRESS = "192.168.56.2"
-PORT = 80
+HOST_ADDRESS = "<EditIP>"
+PORT = <EditPort>
 
 # Teting for detecting basic directory traverserables
 Directory_Traversal_Patterns = re.compile(r"/\.\.\/|\/etc\/passwd|\/proc\/|\/dev\/")
