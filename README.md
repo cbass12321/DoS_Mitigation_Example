@@ -15,9 +15,7 @@ This project was for class, the goal was to create some locally hosted web serve
 
 1. Update the IP and port in the script:
 
-   ```bash
-     pip install flask flask_sqlalchemy scapy
-     ```
+<img width="323" alt="image" src="https://github.com/user-attachments/assets/bc92798d-08b5-4195-a3d7-610d1437db36" />
 
 3. Install required Python libraries:
 
